@@ -1490,5 +1490,48 @@
    "added": "2026-10-30",
    "cleared": null
   }
- ]
+ ],
+ "theatres": [
+  {
+   "id": "mona",
+   "name": "Mona Passage and Puerto Rico",
+   "box": [
+    17.5,
+    -69.5,
+    19.5,
+    -65.0
+   ]
+  },
+  {
+   "id": "windward",
+   "name": "Windward Passage",
+   "box": [
+    19.5,
+    -75.5,
+    23.0,
+    -70.5
+   ]
+  },
+  {
+   "id": "straits",
+   "name": "Florida Straits, the Bahamas and the Yucatan Channel",
+   "box": [
+    21.5,
+    -87.0,
+    27.5,
+    -76.5
+   ]
+  },
+  {
+   "id": "socal",
+   "name": "Southern California",
+   "box": [
+    32.3,
+    -121.5,
+    34.5,
+    -117.0
+   ]
+  }
+ ],
+ "theatre_rule": "A listed vessel counts as doing immigration enforcement only while its position is inside one of the theatres. Elsewhere it is an ordinary Coast Guard vessel."
 }
