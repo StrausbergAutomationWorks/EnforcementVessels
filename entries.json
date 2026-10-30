@@ -1,0 +1,1494 @@
+{
+ "schema": 1,
+ "about": "Researched entries for EnforcementVessels. Each entry is one vessel; each evidence item cites a Coast Guard release, photo or story naming it in migrant interdiction. Additions only: an entry leaves the active list only as 'cleared', with the reason and the source.",
+ "entries": [
+  {
+   "id": "uscg-active",
+   "kind": "vessel",
+   "name": "USCGC Active (WMEC 618)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367269000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 618",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-06-15",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens off the coast of La Jolla\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3e537d9"
+    },
+    {
+     "date": "2025-01-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 21 migrants near Point Loma\".",
+     "source_url": "https://www.dvidshub.net/image/8845741/coast-guard-interdicts-21-migrants-near-point-loma"
+    },
+    {
+     "date": "2025-02-02",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 16 aliens near Mission Bay\".",
+     "source_url": "https://www.dvidshub.net/image/8851554/coast-guard-interdicts-16-aliens-near-mission-bay"
+    },
+    {
+     "date": "2025-06-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens off the coast of La Jolla\".",
+     "source_url": "https://www.dvidshub.net/image/9113869/coast-guard-interdicts-11-aliens-off-coast-la-jolla"
+    },
+    {
+     "date": "2025-06-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens off the coast of La Jolla\".",
+     "source_url": "https://www.dvidshub.net/image/9113868/coast-guard-interdicts-11-aliens-off-coast-la-jolla"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-bear",
+   "kind": "vessel",
+   "name": "USCGC Bear",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367286000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-12-16",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard Cutter Bear interdicts Cuban aliens in Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9473912/coast-guard-cutter-bear-interdicts-cuban-aliens-caribbean-sea"
+    },
+    {
+     "date": "2025-12-10",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Bear conducts maritime border security patrol in the Caribbean Sea, Florida Straits and Gulf of America\".",
+     "source_url": "https://www.dvidshub.net/image/9473902/coast-guard-cutter-bear-conducts-maritime-border-security-patrol-caribbean-sea-florida-straits-and-gulf-america"
+    },
+    {
+     "date": "2025-12-13",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Bear, U.S. Navy aircrews conduct vertical replenishment operations in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9473939/coast-guard-cutter-bear-us-navy-aircrews-conduct-vertical-replenishment-operations-caribbean-sea"
+    },
+    {
+     "date": "2025-12-13",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Bear, U.S. Navy aircrews conduct vertical replenishment operations in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9473930/coast-guard-cutter-bear-us-navy-aircrews-conduct-vertical-replenishment-operations-caribbean-sea"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-benjamin-bottoms",
+   "kind": "vessel",
+   "name": "USCGC Benjamin Bottoms (WPC 1132)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926432"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1132",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 13 aliens west of Encinitas, Calif.\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4074608/coast-guard-interdicts-13-aliens-west-of-encinitas-calif/"
+    },
+    {
+     "date": "2025-02-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 13 aliens near Encinitas, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8902266/coast-guard-interdicts-13-aliens-near-encinitas-calif"
+    },
+    {
+     "date": "2025-02-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 13 aliens near Encinitas, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8902265/coast-guard-interdicts-13-aliens-near-encinitas-calif"
+    },
+    {
+     "date": "2025-02-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 13 aliens near Encinitas, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8902264/coast-guard-interdicts-13-aliens-near-encinitas-calif"
+    },
+    {
+     "date": "2025-09-20",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 4 people 10 miles west of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9329204/coast-guard-interdicts-4-people-10-miles-west-point-loma-calif"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-campbell",
+   "kind": "vessel",
+   "name": "USCGC Campbell (WMEC 909)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367289000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 909",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-10-31",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard Cutter Campbell returns home after 54-day maritime border security patrol in the Windward Passage (interdicted 103 aliens)\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4326215/coast-guard-cutter-campbell-returns-home-after-54-day-maritime-border-security/"
+    },
+    {
+     "date": "2025-09-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"U.S. Coast Guard Cutter Campbell assists Royal Turks and Caicos Islands Police with Haitian interdiction\".",
+     "source_url": "https://www.dvidshub.net/image/9370541/us-coast-guard-cutter-campbell-assists-royal-turks-and-caicos-islands-police-with-haitian-interdiction"
+    },
+    {
+     "date": "2025-05-15",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Campbell conducts alien interdiction patrol in the Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/image/9127835/coast-guard-cutter-campbell-conducts-alien-interdiction-patrol-windward-passage"
+    },
+    {
+     "date": "2025-06-05",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Campbell conducts alien interdiction patrol in the Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/image/9127828/coast-guard-cutter-campbell-conducts-alien-interdiction-patrol-windward-passage"
+    },
+    {
+     "date": "2025-10-28",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Campbell returns home after 54-day maritime border security patrol in the Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/news/550508/coast-guard-cutter-campbell-returns-home-after-54-day-maritime-border-security-patrol-windward-passage"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-charles-david-jr",
+   "kind": "vessel",
+   "name": "USCGC Charles David Jr.",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926407"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-01-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 12 aliens to Cuba (diverted to interdict)\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4047571/coast-guard-repatriates-12-aliens-to-cuba/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-david-duren",
+   "kind": "vessel",
+   "name": "USCGC David Duren (WPC 1156)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926456"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1156",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-09-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 21 people 26 miles west of La Jolla, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9319972/coast-guard-interdicts-21-people-26-miles-west-la-jolla-calif"
+    },
+    {
+     "date": "2025-09-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 21 people 26 miles west of La Jolla, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9319971/coast-guard-interdicts-21-people-26-miles-west-la-jolla-calif"
+    },
+    {
+     "date": "2025-09-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 21 people 26 miles west of La Jolla, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9319970/coast-guard-interdicts-21-people-26-miles-west-la-jolla-calif"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-escanaba",
+   "kind": "vessel",
+   "name": "USCGC Escanaba (WMEC 907)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367262000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 907",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-10",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 132 aliens to Haiti\".",
+     "source_url": "https://news.uscg.mil/Press-Releases/Article/4062016/coast-guard-repatriates-132-aliens-to-haiti"
+    },
+    {
+     "date": "2025-02-05",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 132 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8864843/coast-guard-repatriates-132-aliens-haiti"
+    },
+    {
+     "date": "2025-02-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 132 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8864845/coast-guard-repatriates-132-aliens-haiti"
+    },
+    {
+     "date": "2025-02-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 132 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8864844/coast-guard-repatriates-132-aliens-haiti"
+    },
+    {
+     "date": "2025-02-10",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 132 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8864850/coast-guard-repatriates-132-aliens-haiti"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-forrest-rednour",
+   "kind": "vessel",
+   "name": "USCGC Forrest Rednour (WPC 1129)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926429"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1129",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-10-28",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens 13 miles northwest of San Diego\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4327076/coast-guard-interdicts-11-aliens-13-miles-northwest-of-san-diego/"
+    },
+    {
+     "date": null,
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 14 aliens near Point Loma, Calif.\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4407097/coast-guard-interdicts-14-aliens-near-point-loma-calif/"
+    },
+    {
+     "date": "2026-02-22",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 20 aliens near Sunset Cliffs\".",
+     "source_url": "https://www.dvidshub.net/image/9534053/coast-guard-interdicts-20-aliens-near-sunset-cliffs"
+    },
+    {
+     "date": "2026-02-22",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 20 aliens near Sunset Cliffs\".",
+     "source_url": "https://www.dvidshub.net/image/9534078/coast-guard-interdicts-20-aliens-near-sunset-cliffs"
+    },
+    {
+     "date": "2026-03-01",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 14 aliens near Point Loma\".",
+     "source_url": "https://www.dvidshub.net/image/9543333/coast-guard-interdicts-14-aliens-near-point-loma"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-haddock",
+   "kind": "vessel",
+   "name": "USCGC Haddock (WPB 87347)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999661"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPB 87347",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 13 aliens west of Encinitas, Calif.\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4074608/coast-guard-interdicts-13-aliens-west-of-encinitas-calif/"
+    },
+    {
+     "date": "2025-02-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 20 aliens west of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8877131/coast-guard-interdicts-20-aliens-west-point-loma-calif"
+    },
+    {
+     "date": "2025-02-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 20 aliens west of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8877130/coast-guard-interdicts-20-aliens-west-point-loma-calif"
+    },
+    {
+     "date": "2025-02-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 20 aliens west of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/video/952919/coast-guard-interdicts-20-aliens-west-point-loma-calif"
+    },
+    {
+     "date": "2025-02-28",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 21 aliens west of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/8892949/coast-guard-interdicts-21-aliens-west-point-loma-calif"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-halibut",
+   "kind": "vessel",
+   "name": "USCGC Halibut",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999662"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": null,
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens near San Diego\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4521343/coast-guard-interdicts-11-aliens-near-san-diego/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-heriberto-hernandez",
+   "kind": "vessel",
+   "name": "USCGC Heriberto Hernandez",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926414"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-09-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 66 aliens following an unlawful voyage vessel interdiction in Mona Passage waters off Puerto Rico\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4300683/coast-guard-repatriates-66-aliens-following-an-unlawful-voyage-vessel-interdict/"
+    },
+    {
+     "date": "2026-06-07",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 32 aliens to Dominican Republic Navy following vessel interdiction off Desecheo, Puerto Rico\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/41b4252"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-isaac-mayo",
+   "kind": "vessel",
+   "name": "USCGC Isaac Mayo",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926412"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-01-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 12 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4047571/coast-guard-repatriates-12-aliens-to-cuba/"
+    },
+    {
+     "date": "2026-10-13",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 6 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4624596/coast-guard-repatriates-6-aliens-to-cuba/"
+    },
+    {
+     "date": "2026-10-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 6 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/10009057/coast-guard-repatriates-6-aliens-cuba"
+    },
+    {
+     "date": "2026-10-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 6 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/10009045/coast-guard-repatriates-6-aliens-cuba"
+    },
+    {
+     "date": "2026-10-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 6 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/10009064/coast-guard-repatriates-6-aliens-cuba"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-jacob-poroo",
+   "kind": "vessel",
+   "name": "USCGC Jacob Poroo",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926425"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-05-08",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"US Coast Guard Art Program Collection 2025, Obj. Id. # 202504, \"Operation Vigilant Sentry,\" Michael Davis\".",
+     "source_url": "https://www.dvidshub.net/image/9023326/us-coast-guard-art-program-collection-2025-obj-id-202504-operation-vigilant-sentry-michael-davis"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-john-mccormick",
+   "kind": "vessel",
+   "name": "USCGC John McCormick (WPC 1121)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926421"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1121",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-05-26",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 36 aliens near San Diego\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/41912c1"
+    },
+    {
+     "date": "2026-05-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 36 aliens near San Diego\".",
+     "source_url": "https://www.dvidshub.net/image/9708301/coast-guard-interdicts-36-aliens-near-san-diego"
+    },
+    {
+     "date": "2026-05-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 36 aliens near San Diego\".",
+     "source_url": "https://www.dvidshub.net/image/9708299/coast-guard-interdicts-36-aliens-near-san-diego"
+    },
+    {
+     "date": "2026-05-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 36 aliens near San Diego\".",
+     "source_url": "https://www.dvidshub.net/image/9708298/coast-guard-interdicts-36-aliens-near-san-diego"
+    },
+    {
+     "date": "2026-05-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 36 aliens near San Diego\".",
+     "source_url": "https://www.dvidshub.net/image/9708297/coast-guard-interdicts-36-aliens-near-san-diego"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-joseph-doyle",
+   "kind": "vessel",
+   "name": "USCGC Joseph Doyle",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926433"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-09-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 51 migrants to Dominican Republic following vessel interdiction off Aguadilla, Puerto Rico\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/4290dca"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-joseph-napier",
+   "kind": "vessel",
+   "name": "USCGC Joseph Napier",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926415"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-03-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts, transfers 32 aliens to Dominican Republic Navy authorities for repatriation\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3d62e23"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-joseph-tezanos",
+   "kind": "vessel",
+   "name": "USCGC Joseph Tezanos",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926418"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-04-20",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 21 aliens to Dominican Republic following an unlawful migration voyage interdiction off Puerto Rico\".",
+     "source_url": "https://www.news.uscg.mil/Doing-Business/Photos/igphoto/2003915872/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-manowar",
+   "kind": "vessel",
+   "name": "USCGC Manowar",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999666"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 16 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4062601/coast-guard-repatriates-16-aliens-to-cuba/"
+    },
+    {
+     "date": "2025-02-07",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 16 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/8866065/coast-guard-repatriates-16-aliens-cuba"
+    },
+    {
+     "date": "2025-02-07",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 16 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/8866064/coast-guard-repatriates-16-aliens-cuba"
+    },
+    {
+     "date": "2025-05-09",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard Cutter Manowar B-roll\".",
+     "source_url": "https://www.dvidshub.net/video/961733/coast-guard-cutter-manowar-b-roll"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-margaret-norvell",
+   "kind": "vessel",
+   "name": "USCGC Margaret Norvell",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926405"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 31 aliens to the Bahamas\".",
+     "source_url": "https://news.uscg.mil/Press-Releases/Article/4068686/coast-guard-transfers-31-aliens-to-the-bahamas"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-mohawk",
+   "kind": "vessel",
+   "name": "USCGC Mohawk (WMEC 913)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367260000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 913",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-08-29",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Mohawk returns home to Key West, Florida after 75-day maritime border security patrol\".",
+     "source_url": "https://www.dvidshub.net/news/546943/coast-guard-cutter-mohawk-returns-home-key-west-florida-after-75-day-maritime-border-security-patrol"
+    },
+    {
+     "date": "2025-07-02",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard utilizes newest over-the-horizon cutter boat for pursuit training\".",
+     "source_url": "https://www.dvidshub.net/image/9286008/coast-guard-utilizes-newest-over-horizon-cutter-boat-pursuit-training"
+    },
+    {
+     "date": "2025-07-15",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Mohawk conducts air operations training in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9286007/coast-guard-cutter-mohawk-conducts-air-operations-training-caribbean-sea"
+    },
+    {
+     "date": "2025-07-15",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Mohawk conducts air operations training in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9286006/coast-guard-cutter-mohawk-conducts-air-operations-training-caribbean-sea"
+    },
+    {
+     "date": "2025-07-23",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Mohawk conducts gunnery exercise in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9286002/coast-guard-cutter-mohawk-conducts-gunnery-exercise-caribbean-sea"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-narwhal",
+   "kind": "vessel",
+   "name": "USCGC Narwhal (WPB 87335)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999702"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPB 87335",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-04-07",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 22 aliens west of San Diego\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4148177/coast-guard-interdicts-22-aliens-west-of-san-diego/"
+    },
+    {
+     "date": "2026-09-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 24 aliens 3 miles south of Santa Barbara Island\".",
+     "source_url": "https://www.dvidshub.net/image/9917426/coast-guard-interdicts-24-aliens-3-miles-south-santa-barbara-island"
+    },
+    {
+     "date": "2026-09-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 24 aliens 3 miles south of Santa Barbara Island\".",
+     "source_url": "https://www.dvidshub.net/image/9917425/coast-guard-interdicts-24-aliens-3-miles-south-santa-barbara-island"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-pablo-valent",
+   "kind": "vessel",
+   "name": "USCGC Pablo Valent (WPC 1148)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926448"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1148",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-09-03",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 14 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/9924399/coast-guard-repatriates-14-aliens-cuba"
+    },
+    {
+     "date": "2026-09-03",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 14 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/9924406/coast-guard-repatriates-14-aliens-cuba"
+    },
+    {
+     "date": "2026-09-03",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 14 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/9924408/coast-guard-repatriates-14-aliens-cuba"
+    },
+    {
+     "date": "2026-09-03",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 14 aliens to Cuba\".",
+     "source_url": "https://www.dvidshub.net/image/9924412/coast-guard-repatriates-14-aliens-cuba"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-petrel",
+   "kind": "vessel",
+   "name": "USCGC Petrel",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [],
+   "mmsi_basis": null,
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-04-30",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard apprehends 15 aliens during an interdiction off San Diego coast\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4170981/coast-guard-apprehends-15-aliens-during-an-interdiction-off-san-diego-coast/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-raymond-evans",
+   "kind": "vessel",
+   "name": "USCGC Raymond Evans",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926410"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-11",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 16 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4062601/coast-guard-repatriates-16-aliens-to-cuba/"
+    },
+    {
+     "date": "2026-06-25",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 27 aliens to Cuba (Raymond Evans embarked them in the Yucatan Channel)\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4523252/coast-guard-repatriates-27-aliens-to-cuba/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-reliance",
+   "kind": "vessel",
+   "name": "USCGC Reliance (WMEC 615)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367297000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 615",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-03-14",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Reliance returns home after 60-day maritime border security patrol\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3d6fb89"
+    },
+    {
+     "date": "2025-01-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 12 aliens to Cuba (diverted to respond)\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4047571/coast-guard-repatriates-12-aliens-to-cuba/"
+    },
+    {
+     "date": "2025-03-14",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Reliance returns home after 60-day maritime border security patrol\".",
+     "source_url": "https://www.dvidshub.net/news/492873/coast-guard-cutter-reliance-returns-home-after-60-day-maritime-border-security-patrol"
+    },
+    {
+     "date": "2025-07-03",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Reliance holds public tours in Galveston, Texas\".",
+     "source_url": "https://www.dvidshub.net/image/9188422/coast-guard-cutter-reliance-holds-public-tours-galveston-texas"
+    },
+    {
+     "date": "2025-07-14",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Reliance conducts 60-day patrol in the Gulf of America\".",
+     "source_url": "https://www.dvidshub.net/image/9188418/coast-guard-cutter-reliance-conducts-60-day-patrol-gulf-america"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-resolute",
+   "kind": "vessel",
+   "name": "USCGC Resolute (WMEC 620)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367296000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 620",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-27",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Resolute conducts maritime border security patrol in the Florida Straits and Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/image/8969291/coast-guard-cutter-resolute-conducts-maritime-border-security-patrol-florida-straits-and-windward-passage"
+    },
+    {
+     "date": "2025-02-28",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Resolute conducts maritime border security patrol in the Florida Straits and Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/image/8969289/coast-guard-cutter-resolute-conducts-maritime-border-security-patrol-florida-straits-and-windward-passage"
+    },
+    {
+     "date": "2025-10-31",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"US Coast Guard Cutter Resolute (WMEC 620) conducts Caribbean patrol\".",
+     "source_url": "https://www.dvidshub.net/image/9411343/us-coast-guard-cutter-resolute-wmec-620-conducts-caribbean-patrol"
+    },
+    {
+     "date": "2026-03-03",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Resolute returns home following 61-day patrol in the Florida Straits, Windward Passage and Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9642783/coast-guard-cutter-resolute-returns-home-following-61-day-patrol-florida-straits-windward-passage-and-caribbean-sea"
+    },
+    {
+     "date": "2026-03-06",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Resolute returns home following 61-day patrol in the Florida Straits, Windward Passage and Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9642776/coast-guard-cutter-resolute-returns-home-following-61-day-patrol-florida-straits-windward-passage-and-caribbean-sea"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-richard-etheridge",
+   "kind": "vessel",
+   "name": "USCGC Richard Etheridge",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926402"
+   ],
+   "mmsi_basis": "MMSI by the FRC hull pattern (WPC 11NN = 3389264NN); it broadcasts a garbled name",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-02-14",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 31 aliens to the Bahamas (diverted to interdict)\".",
+     "source_url": "https://news.uscg.mil/Press-Releases/Article/4068686/coast-guard-transfers-31-aliens-to-the-bahamas"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-robert-ward",
+   "kind": "vessel",
+   "name": "USCGC Robert Ward (WPC 1130)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926430"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1130",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-04-30",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard apprehends 15 aliens during an interdiction off San Diego coast\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4170981/coast-guard-apprehends-15-aliens-during-an-interdiction-off-san-diego-coast/"
+    },
+    {
+     "date": "2025-06-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 7 aliens off the coast of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9098376/coast-guard-interdicts-7-aliens-off-coast-point-loma-calif"
+    },
+    {
+     "date": "2025-06-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 7 aliens off the coast of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9098375/coast-guard-interdicts-7-aliens-off-coast-point-loma-calif"
+    },
+    {
+     "date": "2025-06-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 7 aliens off the coast of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9098377/coast-guard-interdicts-7-aliens-off-coast-point-loma-calif"
+    },
+    {
+     "date": "2025-06-08",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 7 aliens off the coast of Point Loma, Calif.\".",
+     "source_url": "https://www.dvidshub.net/image/9098374/coast-guard-interdicts-7-aliens-off-coast-point-loma-calif"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-robert-yered",
+   "kind": "vessel",
+   "name": "USCGC Robert Yered (WPC 1104)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926404"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1104",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-06-23",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers six migrants to The Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/9136331/coast-guard-transfers-six-migrants-bahamas"
+    },
+    {
+     "date": "2026-09-25",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 10 aliens to the Bahamas following interdiction near Fort Lauderdale\".",
+     "source_url": "https://www.dvidshub.net/image/9969898/coast-guard-transfers-10-aliens-bahamas-following-interdiction-near-fort-lauderdale"
+    },
+    {
+     "date": "2026-09-25",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 10 aliens to the Bahamas following interdiction in Fort Lauderdale\".",
+     "source_url": "https://www.dvidshub.net/image/9969894/coast-guard-transfers-10-aliens-bahamas-following-interdiction-fort-lauderdale"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-sea-otter",
+   "kind": "vessel",
+   "name": "USCGC Sea Otter",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999637"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-03-16",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 11 aliens near Imperial Beach\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/40e9bd7"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-seneca",
+   "kind": "vessel",
+   "name": "USCGC Seneca (WMEC 906)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367285000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 906",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-03-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 99 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8947406/coast-guard-repatriates-99-aliens-haiti"
+    },
+    {
+     "date": "2025-03-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 99 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8947398/coast-guard-repatriates-99-aliens-haiti"
+    },
+    {
+     "date": "2025-03-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 99 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8947350/coast-guard-repatriates-99-aliens-haiti"
+    },
+    {
+     "date": "2025-03-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 99 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8947395/coast-guard-repatriates-99-aliens-haiti"
+    },
+    {
+     "date": "2025-04-01",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 99 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/8947419/coast-guard-repatriates-99-aliens-haiti"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-sockeye",
+   "kind": "vessel",
+   "name": "USCGC Sockeye",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366999709"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-10-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 7 aliens near Dana Point\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4321162/coast-guard-interdicts-7-aliens-near-dana-point/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-spencer",
+   "kind": "vessel",
+   "name": "USCGC Spencer (WMEC 905)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926896",
+    "367258000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 905",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-09-02",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 191 aliens to Haiti\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4291448/coast-guard-repatriates-191-aliens-to-haiti/"
+    },
+    {
+     "date": "2025-08-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 191 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/9323878/coast-guard-repatriates-191-aliens-haiti"
+    },
+    {
+     "date": "2025-08-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 191 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/9323875/coast-guard-repatriates-191-aliens-haiti"
+    },
+    {
+     "date": "2025-08-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 191 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/9323874/coast-guard-repatriates-191-aliens-haiti"
+    },
+    {
+     "date": "2025-08-29",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 191 aliens to Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/9288863/coast-guard-repatriates-191-aliens-haiti"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-tahoma",
+   "kind": "vessel",
+   "name": "USCGC Tahoma (WMEC 908)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367288000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 908",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-11-11",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Tahoma (WMEC 908) conducts operations in the Windward Passage\".",
+     "source_url": "https://www.dvidshub.net/image/9458688/coast-guard-cutter-tahoma-wmec-908-conducts-operations-windward-passage"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-terrell-horne",
+   "kind": "vessel",
+   "name": "USCGC Terrell Horne (WPC 1131)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926431"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1131",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-08-13",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 9 aliens aboard panga-style vessel off San Diego\".",
+     "source_url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/424e204"
+    },
+    {
+     "date": "2025-01-28",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 14 aliens near Point Loma\".",
+     "source_url": "https://www.dvidshub.net/video/950728/coast-guard-interdicts-14-aliens-near-point-loma"
+    },
+    {
+     "date": "2026-06-23",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard interdicts 26 aliens near La Jolla\".",
+     "source_url": "https://www.dvidshub.net/image/9772855/coast-guard-interdicts-26-aliens-near-la-jolla"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-thetis",
+   "kind": "vessel",
+   "name": "USCGC Thetis (WMEC 910)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367876000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 910",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-03-27",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 60 aliens to Dominican Republic following unlawful migration voyage interdiction off Puerto Rico\".",
+     "source_url": "https://www.dvidshub.net/image/9678609/coast-guard-repatriates-60-aliens-dominican-republic-following-unlawful-migration-voyage-interdiction-off-puerto-rico"
+    },
+    {
+     "date": "2026-03-30",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 60 aliens to Dominican Republic following unlawful migration voyage interdiction off Puerto Rico\".",
+     "source_url": "https://www.dvidshub.net/image/9678856/coast-guard-repatriates-60-aliens-dominican-republic-following-unlawful-migration-voyage-interdiction-off-puerto-rico"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-vigilant",
+   "kind": "vessel",
+   "name": "USCGC Vigilant",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367293000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-06-25",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigilant conducts small boat training off Haiti\".",
+     "source_url": "https://www.dvidshub.net/image/9288835/coast-guard-cutter-vigilant-conducts-small-boat-training-off-haiti"
+    },
+    {
+     "date": "2025-06-29",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigilant's drug interdiction efforts\".",
+     "source_url": "https://www.dvidshub.net/image/9299193/coast-guard-cutter-vigilants-drug-interdiction-efforts"
+    },
+    {
+     "date": "2025-06-29",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigilant’s drug interdiction efforts\".",
+     "source_url": "https://www.dvidshub.net/image/9299199/coast-guard-cutter-vigilants-drug-interdiction-efforts"
+    },
+    {
+     "date": "2025-07-25",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigilant's drug interdiction efforts\".",
+     "source_url": "https://www.dvidshub.net/image/9299171/coast-guard-cutter-vigilants-drug-interdiction-efforts"
+    },
+    {
+     "date": "2025-08-15",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigilant seizes illegal drugs in the Caribbean Sea\".",
+     "source_url": "https://www.dvidshub.net/image/9288840/coast-guard-cutter-vigilant-seizes-illegal-drugs-caribbean-sea"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-vigorous",
+   "kind": "vessel",
+   "name": "USCGC Vigorous (WMEC 627)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "367263000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WMEC 627",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-07-01",
+     "kind": "patrol",
+     "what": "Named in a Coast Guard release or photo as on a counter-migration or maritime border security patrol: \"Coast Guard Cutter Vigorous returns home after 51-day counter-migration patrol in the Windward Passage\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4232577/coast-guard-cutter-vigorous-returns-home-after-51-day-counter-migration-patrol/"
+    },
+    {
+     "date": "2025-02-18",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 23 aliens to Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/8881887/coast-guard-transfers-23-aliens-bahamas"
+    },
+    {
+     "date": "2025-02-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 23 aliens to Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/8885301/coast-guard-transfers-23-aliens-bahamas"
+    },
+    {
+     "date": "2025-02-19",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 23 aliens to Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/8885266/coast-guard-transfers-23-aliens-bahamas"
+    },
+    {
+     "date": "2025-02-20",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 23 aliens to Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/8885307/coast-guard-transfers-23-aliens-bahamas"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-walnut",
+   "kind": "vessel",
+   "name": "USCGC Walnut (WLB 205)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "366953000"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WLB 205",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2025-06-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 20 aliens to Bahamas authorities\".",
+     "source_url": "https://www.dvidshub.net/image/9101195/coast-guard-transfers-20-aliens-bahamas-authorities"
+    },
+    {
+     "date": "2025-06-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 20 aliens to Bahamas authorities\".",
+     "source_url": "https://www.dvidshub.net/image/9101196/coast-guard-transfers-20-aliens-bahamas-authorities"
+    },
+    {
+     "date": "2025-06-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 20 aliens to Bahamas authorities\".",
+     "source_url": "https://www.dvidshub.net/image/9101203/coast-guard-transfers-20-aliens-bahamas-authorities"
+    },
+    {
+     "date": "2025-06-06",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 20 aliens to Bahamas authorities\".",
+     "source_url": "https://www.dvidshub.net/image/9101205/coast-guard-transfers-20-aliens-bahamas-authorities"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-william-flores",
+   "kind": "vessel",
+   "name": "USCGC William Flores",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926403"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": null,
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-09-10",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 14 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4595643/coast-guard-repatriates-14-aliens-to-cuba/"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  },
+  {
+   "id": "uscg-winslow-griesser",
+   "kind": "vessel",
+   "name": "USCGC Winslow Griesser (WPC 1116)",
+   "short": "USCG",
+   "agency": "US Coast Guard",
+   "mmsi": [
+    "338926416"
+   ],
+   "mmsi_basis": "AIS name heard in US waters in 2025 (Marine Cadastre, NOAA and USCG NAIS)",
+   "hull": "WPC 1116",
+   "status": "sourced",
+   "evidence": [
+    {
+     "date": "2026-08-26",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 15 aliens to The Bahamas\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4583457/coast-guard-transfers-15-aliens-to-the-bahamas/"
+    },
+    {
+     "date": "2026-06-25",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard repatriates 27 aliens to Cuba\".",
+     "source_url": "https://www.news.uscg.mil/Press-Releases/Article/4523252/coast-guard-repatriates-27-aliens-to-cuba/"
+    },
+    {
+     "date": "2025-08-30",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 30 aliens to The Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/9295076/coast-guard-transfers-30-aliens-bahamas"
+    },
+    {
+     "date": "2026-08-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 15 aliens to The Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/9890437/coast-guard-transfers-15-aliens-bahamas"
+    },
+    {
+     "date": "2026-08-21",
+     "kind": "direct",
+     "what": "Named in a Coast Guard release or photo as interdicting, repatriating, transferring or rescuing people at sea: \"Coast Guard transfers 15 aliens to The Bahamas\".",
+     "source_url": "https://www.dvidshub.net/image/9890423/coast-guard-transfers-15-aliens-bahamas"
+    }
+   ],
+   "added": "2026-10-30",
+   "cleared": null
+  }
+ ]
+}
